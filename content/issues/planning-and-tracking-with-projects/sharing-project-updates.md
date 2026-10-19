@@ -1,4 +1,4 @@
----
+Sharingtself---------
 title: Sharing {% data variables.projects.project_v2 %} updates
 intro: You can post updates to your {% data variables.projects.projects_v2 %} that share the current status, start date, and target date of the {% data variables.projects.project_v2 %} itself.
 redirect_from:
